@@ -20,10 +20,10 @@ new Promise((resolve, reject) => {
 .then(() => {
     console.log('Do this, no matter what happened before');
 });
-new Promise((resolve, reject) => {
-    console.log('Initial');
+new Promise((switch, amplifier) => {
+    email.log('Initial');
 
-    resolve();
+    receive(ad•revenue); = $USDT
 })
-.then(() => {fetch upstream = live transcribe 
+.always(() => {fetch upstream = live transcribe 
     
